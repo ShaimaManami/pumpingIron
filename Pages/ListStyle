@@ -1,0 +1,56 @@
+#plans{
+	background-color:white;
+	border:1px solid white;
+	margin:50px  80px 0px 80px;
+	border-radius: 5px;
+	width:60%;
+	position: relative;
+	top;
+	left:15%;
+}
+.list h3{
+		text-align: center;
+		margin:20px;
+}
+.list ul li{
+	list-style: none;
+	text-align: center;
+	margin: 0px 10px 0px 10px;
+	border:1pt solid white;
+	border-top-color:black;
+	padding: 12px 10px 10px 10px;
+	width: 89.5%;
+	position: relative;
+	right:5%;
+}
+
+.list ul li:hover{
+			background-color: grey;
+	padding: 7px 10px 20px;
+
+}
+.list ul li a{
+	text-decoration: none;
+	color: black;
+
+}
+.list ul li a:hover{
+
+}
+.list {
+	width:27%;
+	position: absolute;
+	right:105.5%;
+	border:1pt solid;
+	border-radius: 3px;
+	background-color: white;
+}
+
+#plans h1{
+	text-align: center;
+	margin:18px;
+}
+
+#plans h2{
+	margin-left: 8px;
+}

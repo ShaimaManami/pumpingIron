@@ -1,0 +1,50 @@
+/* general text formatting */
+
+
+body {
+   font-family: "Lucida Sans", Verdana, Arial, sans-serif;
+   font-size: 85%;
+}
+
+
+legend {
+   background-color: #EBF4FB ;
+   margin: 0 auto;
+   width: 90%;
+   padding: 0.25em;
+   text-align: center;
+   font-weight: bold;
+   font-size: 100%;
+}
+fieldset {
+   margin: 1em auto;
+   background-color: #FAFCFF;
+   width: 60%;
+}
+form p {
+   margin-top: 0.5em;
+}
+
+.rectangle {
+   background-color: #EBF4FB;
+   padding: 0.5em;
+}
+.centered {
+   text-align: center;
+}
+
+.rounded {
+   border: 1px solid #172d6e;
+   border-bottom: 1px solid #0e1d45;
+   border-radius: 5px;
+   text-align: center;
+   color: white;
+   background-color: #8c9cbf;
+   padding: 0.5em 0 0.5em 0;
+   margin: 0.3em;
+   width: 7em;
+}
+.rounded:hover{
+   background-color: #7f8dad;
+}
+
