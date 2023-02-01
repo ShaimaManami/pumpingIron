@@ -179,7 +179,7 @@ z-index: 0;
 	color: #dd691a;
 }
 .figure {
-	display:inline;
+	display:inherit;
 
 	float:left;
 	width: 39%;
@@ -189,7 +189,7 @@ z-index: 0;
 }
 
 .figure3{
-	display:inline;
+	display:inherit;
 	position: absolute;
 	top:147.2%;
 	right:38.5%;
@@ -208,7 +208,7 @@ box-shadow: 0px 0px 3px 5px #e6e6e6;
 }
 
 .figure2{
-	display:inline;
+	display:inherit;
 	position: absolute;
 	width: 24%;
 	right:10.6%;
