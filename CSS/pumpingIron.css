@@ -183,7 +183,8 @@ z-index: 0;
 
 	float:left;
 	width: 39%;
-	margin:10px 47px;
+	margin:10px;
+	margin-left:0;
 	border-radius: 5px;
 
 }
